@@ -1,18 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\e2357599\\Desktop\\LRIMa\\SmartHousetestApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Timickou\\Documents\\LRIMa\\SmartHouseTestApp\\SmartHouseApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DEFE1C0-E463-48F5-AD5E-87118A2744BE}|SmartHouseApp\\SmartHouseApp.csproj|c:\\users\\e2357599\\desktop\\lrima\\smarthousetestapp\\smarthouseapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{5DEFE1C0-E463-48F5-AD5E-87118A2744BE}|SmartHouseApp\\SmartHouseApp.csproj|c:\\users\\timickou\\documents\\lrima\\smarthousetestapp\\smarthouseapp\\smarthouseapp\\connectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5DEFE1C0-E463-48F5-AD5E-87118A2744BE}|SmartHouseApp\\SmartHouseApp.csproj|solutionrelative:smarthouseapp\\connectpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEFE1C0-E463-48F5-AD5E-87118A2744BE}|SmartHouseApp\\SmartHouseApp.csproj|c:\\users\\timickou\\documents\\lrima\\smarthousetestapp\\smarthouseapp\\smarthouseapp\\viewmodels\\connectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEFE1C0-E463-48F5-AD5E-87118A2744BE}|SmartHouseApp\\SmartHouseApp.csproj|solutionrelative:smarthouseapp\\viewmodels\\connectviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEFE1C0-E463-48F5-AD5E-87118A2744BE}|SmartHouseApp\\SmartHouseApp.csproj|c:\\users\\timickou\\documents\\lrima\\smarthousetestapp\\smarthouseapp\\smarthouseapp\\connectpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEFE1C0-E463-48F5-AD5E-87118A2744BE}|SmartHouseApp\\SmartHouseApp.csproj|solutionrelative:smarthouseapp\\connectpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEFE1C0-E463-48F5-AD5E-87118A2744BE}|SmartHouseApp\\SmartHouseApp.csproj|c:\\users\\timickou\\documents\\lrima\\smarthousetestapp\\smarthouseapp\\smarthouseapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5DEFE1C0-E463-48F5-AD5E-87118A2744BE}|SmartHouseApp\\SmartHouseApp.csproj|solutionrelative:smarthouseapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DEFE1C0-E463-48F5-AD5E-87118A2744BE}|SmartHouseApp\\SmartHouseApp.csproj|c:\\users\\e2357599\\desktop\\lrima\\smarthousetestapp\\smarthouseapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DEFE1C0-E463-48F5-AD5E-87118A2744BE}|SmartHouseApp\\SmartHouseApp.csproj|solutionrelative:smarthouseapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5DEFE1C0-E463-48F5-AD5E-87118A2744BE}|SmartHouseApp\\SmartHouseApp.csproj|c:\\users\\timickou\\documents\\lrima\\smarthousetestapp\\smarthouseapp\\smarthouseapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEFE1C0-E463-48F5-AD5E-87118A2744BE}|SmartHouseApp\\SmartHouseApp.csproj|solutionrelative:smarthouseapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DEFE1C0-E463-48F5-AD5E-87118A2744BE}|SmartHouseApp\\SmartHouseApp.csproj|c:\\users\\e2357599\\desktop\\lrima\\smarthousetestapp\\smarthouseapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DEFE1C0-E463-48F5-AD5E-87118A2744BE}|SmartHouseApp\\SmartHouseApp.csproj|c:\\users\\timickou\\documents\\lrima\\smarthousetestapp\\smarthouseapp\\smarthouseapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DEFE1C0-E463-48F5-AD5E-87118A2744BE}|SmartHouseApp\\SmartHouseApp.csproj|solutionrelative:smarthouseapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEFE1C0-E463-48F5-AD5E-87118A2744BE}|SmartHouseApp\\SmartHouseApp.csproj|c:\\users\\timickou\\documents\\lrima\\smarthousetestapp\\smarthouseapp\\smarthouseapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEFE1C0-E463-48F5-AD5E-87118A2744BE}|SmartHouseApp\\SmartHouseApp.csproj|solutionrelative:smarthouseapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEFE1C0-E463-48F5-AD5E-87118A2744BE}|SmartHouseApp\\SmartHouseApp.csproj|c:\\users\\timickou\\documents\\lrima\\smarthousetestapp\\smarthouseapp\\smarthouseapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DEFE1C0-E463-48F5-AD5E-87118A2744BE}|SmartHouseApp\\SmartHouseApp.csproj|solutionrelative:smarthouseapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\e2357599\\Desktop\\LRIMa\\SmartHousetestApp\\SmartHouseApp\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "SmartHouseApp\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\e2357599\\Desktop\\LRIMa\\SmartHousetestApp\\SmartHouseApp\\MainPage.xaml.cs",
-              "RelativeToolTip": "SmartHouseApp\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ConnectViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Timickou\\Documents\\LRIMa\\SmartHouseTestApp\\SmartHouseApp\\SmartHouseApp\\ViewModels\\ConnectViewModel.cs",
+              "RelativeDocumentMoniker": "SmartHouseApp\\ViewModels\\ConnectViewModel.cs",
+              "ToolTip": "C:\\Users\\Timickou\\Documents\\LRIMa\\SmartHouseTestApp\\SmartHouseApp\\SmartHouseApp\\ViewModels\\ConnectViewModel.cs",
+              "RelativeToolTip": "SmartHouseApp\\ViewModels\\ConnectViewModel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T03:17:21.054Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-04-04T01:24:36.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConnectPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Timickou\\Documents\\LRIMa\\SmartHouseTestApp\\SmartHouseApp\\SmartHouseApp\\ConnectPage.xaml.cs",
+              "RelativeDocumentMoniker": "SmartHouseApp\\ConnectPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Timickou\\Documents\\LRIMa\\SmartHouseTestApp\\SmartHouseApp\\SmartHouseApp\\ConnectPage.xaml.cs",
+              "RelativeToolTip": "SmartHouseApp\\ConnectPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T01:23:48.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ConnectPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Timickou\\Documents\\LRIMa\\SmartHouseTestApp\\SmartHouseApp\\SmartHouseApp\\ConnectPage.xaml",
+              "RelativeDocumentMoniker": "SmartHouseApp\\ConnectPage.xaml",
+              "ToolTip": "C:\\Users\\Timickou\\Documents\\LRIMa\\SmartHouseTestApp\\SmartHouseApp\\SmartHouseApp\\ConnectPage.xaml",
+              "RelativeToolTip": "SmartHouseApp\\ConnectPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-04T01:23:32.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Timickou\\Documents\\LRIMa\\SmartHouseTestApp\\SmartHouseApp\\SmartHouseApp\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "SmartHouseApp\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Timickou\\Documents\\LRIMa\\SmartHouseTestApp\\SmartHouseApp\\SmartHouseApp\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "SmartHouseApp\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvyQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T00:38:25.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Timickou\\Documents\\LRIMa\\SmartHouseTestApp\\SmartHouseApp\\SmartHouseApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "SmartHouseApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Timickou\\Documents\\LRIMa\\SmartHouseTestApp\\SmartHouseApp\\SmartHouseApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "SmartHouseApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T03:17:21.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\e2357599\\Desktop\\LRIMa\\SmartHousetestApp\\SmartHouseApp\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Timickou\\Documents\\LRIMa\\SmartHouseTestApp\\SmartHouseApp\\SmartHouseApp\\MainPage.xaml",
               "RelativeDocumentMoniker": "SmartHouseApp\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\e2357599\\Desktop\\LRIMa\\SmartHousetestApp\\SmartHouseApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Timickou\\Documents\\LRIMa\\SmartHouseTestApp\\SmartHouseApp\\SmartHouseApp\\MainPage.xaml",
               "RelativeToolTip": "SmartHouseApp\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-01T03:17:15.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Timickou\\Documents\\LRIMa\\SmartHouseTestApp\\SmartHouseApp\\SmartHouseApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "SmartHouseApp\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Timickou\\Documents\\LRIMa\\SmartHouseTestApp\\SmartHouseApp\\SmartHouseApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "SmartHouseApp\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T01:36:25.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\e2357599\\Desktop\\LRIMa\\SmartHousetestApp\\SmartHouseApp\\MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Timickou\\Documents\\LRIMa\\SmartHouseTestApp\\SmartHouseApp\\SmartHouseApp\\MauiProgram.cs",
               "RelativeDocumentMoniker": "SmartHouseApp\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\e2357599\\Desktop\\LRIMa\\SmartHousetestApp\\SmartHouseApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Timickou\\Documents\\LRIMa\\SmartHouseTestApp\\SmartHouseApp\\SmartHouseApp\\MauiProgram.cs",
               "RelativeToolTip": "SmartHouseApp\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T03:16:25.09Z",
               "EditorCaption": ""

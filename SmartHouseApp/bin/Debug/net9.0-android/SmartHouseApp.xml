@@ -4,11 +4,142 @@
         <name>SmartHouseApp</name>
     </assembly>
     <members>
+        <member name="T:SmartHouseApp.ViewModels.ConnectViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:SmartHouseApp.ViewModels.ConnectViewModel.IpAddress">
+            <inheritdoc cref="F:SmartHouseApp.ViewModels.ConnectViewModel._ipAddress"/>
+        </member>
+        <member name="P:SmartHouseApp.ViewModels.ConnectViewModel.Port">
+            <inheritdoc cref="F:SmartHouseApp.ViewModels.ConnectViewModel._port"/>
+        </member>
+        <member name="P:SmartHouseApp.ViewModels.ConnectViewModel.ErrorMessage">
+            <inheritdoc cref="F:SmartHouseApp.ViewModels.ConnectViewModel._errorMessage"/>
+        </member>
+        <member name="P:SmartHouseApp.ViewModels.ConnectViewModel.ConnectedDevices">
+            <inheritdoc cref="F:SmartHouseApp.ViewModels.ConnectViewModel._connectedDevices"/>
+        </member>
+        <member name="P:SmartHouseApp.ViewModels.ConnectViewModel.SelectedDevice">
+            <inheritdoc cref="F:SmartHouseApp.ViewModels.ConnectViewModel._selectedDevice"/>
+        </member>
+        <member name="F:SmartHouseApp.ViewModels.ConnectViewModel.scanNetworkCommand">
+            <summary>The backing field for <see cref="P:SmartHouseApp.ViewModels.ConnectViewModel.ScanNetworkCommand"/>.</summary>
+        </member>
+        <member name="P:SmartHouseApp.ViewModels.ConnectViewModel.ScanNetworkCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:SmartHouseApp.ViewModels.ConnectViewModel.ScanNetworkAsync(System.String)"/>.</summary>
+        </member>
+        <member name="T:SmartHouseApp.ViewModels.MainViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:SmartHouseApp.ViewModels.MainViewModel.Title">
+            <inheritdoc cref="F:SmartHouseApp.ViewModels.MainViewModel._title"/>
+        </member>
+        <member name="P:SmartHouseApp.ViewModels.MainViewModel.Description">
+            <inheritdoc cref="F:SmartHouseApp.ViewModels.MainViewModel._description"/>
+        </member>
+        <member name="P:SmartHouseApp.ViewModels.MainViewModel.Temperature">
+            <inheritdoc cref="F:SmartHouseApp.ViewModels.MainViewModel._temperature"/>
+        </member>
+        <member name="P:SmartHouseApp.ViewModels.MainViewModel.Humidity">
+            <inheritdoc cref="F:SmartHouseApp.ViewModels.MainViewModel._humidity"/>
+        </member>
+        <member name="P:SmartHouseApp.ViewModels.MainViewModel.LightStatus">
+            <inheritdoc cref="F:SmartHouseApp.ViewModels.MainViewModel._lightStatus"/>
+        </member>
+        <member name="P:SmartHouseApp.ViewModels.MainViewModel.DoorStatus">
+            <inheritdoc cref="F:SmartHouseApp.ViewModels.MainViewModel._doorStatus"/>
+        </member>
+        <member name="F:SmartHouseApp.ViewModels.MainViewModel.goToConnectPageCommand">
+            <summary>The backing field for <see cref="P:SmartHouseApp.ViewModels.MainViewModel.GoToConnectPageCommand"/>.</summary>
+        </member>
+        <member name="P:SmartHouseApp.ViewModels.MainViewModel.GoToConnectPageCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:SmartHouseApp.ViewModels.MainViewModel.GoToConnectPage"/>.</summary>
+        </member>
         <member name="T:SmartHouseApp.Resource">
             <summary>
             Android Resource Designer class.
             Exposes the Android Resource designer assembly into the project Namespace.
             </summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IpAddress">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IpAddress" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Port">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Port" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ErrorMessage">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ErrorMessage" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ConnectedDevices">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ConnectedDevices" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.SelectedDevice">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "SelectedDevice" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Title">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Title" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Description">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Description" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Temperature">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Temperature" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Humidity">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Humidity" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.LightStatus">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "LightStatus" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.DoorStatus">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "DoorStatus" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IpAddress">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IpAddress" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Port">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Port" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ErrorMessage">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ErrorMessage" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ConnectedDevices">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ConnectedDevices" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.SelectedDevice">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "SelectedDevice" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Title">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Title" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Description">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Description" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Temperature">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Temperature" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Humidity">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Humidity" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.LightStatus">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "LightStatus" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.DoorStatus">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "DoorStatus" generated properties.</summary>
         </member>
     </members>
 </doc>

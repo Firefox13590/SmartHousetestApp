@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
     Ce code a été généré par un outil.
-    Il a été généré à partir de C:\Users\e2357599\Desktop\LRIMa\SmartHousetestApp\SmartHouseApp\Platforms\Android\AndroidManifest.xml
+    Il a été généré à partir de C:\Users\Timickou\Documents\LRIMa\SmartHouseTestApp\SmartHouseApp\SmartHouseApp\Platforms\Android\AndroidManifest.xml
     Les changements apportés à ce fichier peuvent provoquer un comportement incorrect et seront perdus si
     le contenu est regénéré.
 -->
@@ -11,7 +11,7 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <permission android:name="com.companyname.smarthouseapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" android:protectionLevel="signature" />
   <uses-permission android:name="com.companyname.smarthouseapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-  <application android:name="crc64a27c28f98da1dad3.MainApplication" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:extractNativeLibs="true" android:icon="@mipmap/appicon" android:label="SmartHouseApp" android:roundIcon="@mipmap/appicon_round" android:supportsRtl="true">
+  <application android:name="crc64a27c28f98da1dad3.MainApplication" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:enableOnBackInvokedCallback="True" android:extractNativeLibs="true" android:icon="@mipmap/appicon" android:label="SmartHouseApp" android:roundIcon="@mipmap/appicon_round" android:supportsRtl="true">
     <activity android:name="crc64a27c28f98da1dad3.MainActivity" android:configChanges="density|orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:exported="true" android:launchMode="singleTop" android:theme="@style/Maui.SplashTheme">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
@@ -29,10 +29,12 @@
     <service android:name="crc64396a3fe5f8138e3f.KeepAliveService" />
     <provider android:name="mono.MonoRuntimeProvider" android:authorities="com.companyname.smarthouseapp.mono.MonoRuntimeProvider.__mono_init__" android:exported="false" android:initOrder="1999999999" />
     <provider android:name="androidx.startup.InitializationProvider" android:authorities="com.companyname.smarthouseapp.androidx-startup" android:exported="false" tools:node="merge">
-      <meta-data android:name="androidx.profileinstaller.ProfileInstallerInitializer" android:value="androidx.startup" />
       <meta-data android:name="androidx.lifecycle.ProcessLifecycleInitializer" android:value="androidx.startup" />
       <meta-data android:name="androidx.emoji2.text.EmojiCompatInitializer" android:value="androidx.startup" />
+      <meta-data android:name="androidx.profileinstaller.ProfileInstallerInitializer" android:value="androidx.startup" />
     </provider>
+    <uses-library android:name="androidx.window.extensions" android:required="false" />
+    <uses-library android:name="androidx.window.sidecar" android:required="false" />
     <receiver android:name="androidx.profileinstaller.ProfileInstallReceiver" android:directBootAware="false" android:enabled="true" android:exported="true" android:permission="android.permission.DUMP">
       <intent-filter>
         <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
@@ -47,7 +49,5 @@
         <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
       </intent-filter>
     </receiver>
-    <uses-library android:name="androidx.window.extensions" android:required="false" />
-    <uses-library android:name="androidx.window.sidecar" android:required="false" />
   </application>
 </manifest>
